@@ -58,3 +58,7 @@ ________________________________________
 You can open the workbook using:
 •	Tableau Desktop
 •	Or upload .twbx to Tableau Public (free)
+
+Online Interactive Report : 
+
+https://public.tableau.com/app/profile/walaa.a.hafeez/viz/SalesCustomerDashboardDynamicInteractive/SalesDashboard
